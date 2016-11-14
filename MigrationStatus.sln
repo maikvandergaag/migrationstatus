@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{07F2AB20-6419-4906-9A60-F65F6F98C888}"
+	ProjectSection(SolutionItems) = preProject
+		Scripts\MigrationStatus.js = Scripts\MigrationStatus.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{3FA396BB-2C3B-489E-A4D4-EC8A89619107}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\Migration_Status_View.PNG = Documentation\Migration_Status_View.PNG
+		Documentation\MigrationList.PNG = Documentation\MigrationList.PNG
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1DE2D086-DF77-4D98-BDA7-3CE88A999D30}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
