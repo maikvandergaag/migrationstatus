@@ -7,7 +7,7 @@ For a formatted view of this file in visual studio use the following VS Extensio
 
 ### Overview
 
-![alt text](Documentation/MigrationList.png "List of migration items")
+![alt text](Documentation/MigrationList.PNG "List of migration items")
 
 ![alt text](Documentation/Migration_Status_View.PNG "Overview in Chart")
 
